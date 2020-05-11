@@ -1,4 +1,4 @@
-#Contenido
+# **Contenido**
 + H_natura.tif:índice de Shannon para la red Natura de Andalucía.
 + r_natura.tif: Riqueza específica en cada espacio de la red Natura 2000 en Andalucía
 + H_250.tif: Índice de Shannon de Andalucía calculado en cuadrículas de 250 m2
